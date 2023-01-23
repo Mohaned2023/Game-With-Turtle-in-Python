@@ -1,4 +1,4 @@
-# Game-With-Turtle-in-Python
+# MXL-Game With Turtle in Python
 
 # About this Game
 A project to learn the basics in the Turtle library,    
