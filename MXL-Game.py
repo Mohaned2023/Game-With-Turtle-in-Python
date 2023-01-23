@@ -1,4 +1,4 @@
-# Wirte by Mohaned Mohammed Sherhan , The LEGEND .
+# Wirtten by Mohaned Mohammed Sherhan , The LEGEND .
 
 import turtle as t
 wind1 = t.Screen()
