@@ -1,11 +1,11 @@
 # Game-With-Turtle-in-Python
 
 # About this Game
-A project to learn the basics in the Turtle library,
+A project to learn the basics in the Turtle library,    
 It is agame that ctosses the barriers.
 
 # NOTE ; 
-The game is very simple , It can be written with less code but 
+The game is very simple , It can be written with less code but    
 I wanted to learn and consolidate the information.
 
 # Write by :
