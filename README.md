@@ -12,5 +12,5 @@ I wanted to learn and consolidate the information.
  Mohaned Mohammed Sherhan 
 
 # My accounts on :
-Insagram:https://instagram.com/mr.lxzl?inshid=YmMyMTA2M2Y
+Insagram:https://instagram.com/mr.lxzl?inshid=YmMyMTA2M2Y    
 twitter:https://twitter.com/MrX48915521?t=rHyMHB151bMLMsc94DkKvg&s=09
