@@ -8,7 +8,7 @@ It is agame that ctosses the barriers.
 The game is very simple , It can be written with less code but    
 I wanted to learn and consolidate the information.
 
-# Write by :
+# Written by :
  Mohaned Mohammed Sherhan 
 
 # My accounts on :
